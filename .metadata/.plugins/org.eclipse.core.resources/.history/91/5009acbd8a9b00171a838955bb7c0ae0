@@ -1,0 +1,12 @@
+package com.samson.test;
+
+public class TestBean {
+
+	private String firstName;
+	
+	private String lastName;
+	
+	private int age;
+	
+	
+}
