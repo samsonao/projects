@@ -3,7 +3,7 @@
   <groupId>org.samson.micro</groupId>
   <artifactId>micro-service-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <packaging>jar</packaging>
   <!-- Inherit defaults from Spring Boot -->
     <parent>
         <groupId>org.springframework.boot</groupId>
